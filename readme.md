@@ -32,7 +32,7 @@
 beem_project/
 ├── app.py                   # Flask API entry point
 ├── models/                  # Pre-trained model artifacts
-│   ├── xgboost_model.pkl
+│   ├── best_model.pkl
 │   ├── tfidf_vectorizer.pkl
 │   ├── scaler.pkl
 │   └── label_encoder.pkl
